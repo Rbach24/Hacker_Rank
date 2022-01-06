@@ -1,3 +1,5 @@
+ #this function finds the runner up score
+ 
  n = int(input())
     arr = map(int, input().split())
     Brr = list(arr)
